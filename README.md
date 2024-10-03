@@ -1,5 +1,7 @@
 # Equilibrium Planner
 
+Code for [Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling](https://arxiv.org/abs/2410.01440).
+
 ## Requirements
 
 + Linux with python ≥ 3.9 and CUDA ≥ 11.8.
@@ -79,6 +81,19 @@
 + Effectiveness of different types of feedback:
 
   ![table3](assets/table3.png)
+
+## Citation
+
+If you find this code useful, please consider citing:
+
+```
+@article{li2024closed,
+  title={Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling},
+  author={Li, Jinghan and Sun, Zhicheng and Li, Fei and Sheng, Cao and Yu, Jiazhong and Mu, Yadong},
+  jounal={arXiv preprint arXiv:2410.01440},
+  year={2024}
+}
+```
 
 ## Acknowledgement
 
