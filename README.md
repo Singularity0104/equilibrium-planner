@@ -1,6 +1,8 @@
 # Equilibrium Planner
 
-Code for [Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling](https://arxiv.org/abs/2410.01440).
+Code for ICML 2025 paper [Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling](https://arxiv.org/abs/2410.01440).
+
+![framework](assets/framework.png)
 
 ## Requirements
 
@@ -87,11 +89,11 @@ Code for [Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Mod
 If you find this code useful, please consider citing:
 
 ```
-@article{li2024closed,
+@inproceedings{li2025closed,
   title={Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling},
-  author={Li, Jinghan and Sun, Zhicheng and Li, Fei and Sheng, Cao and Yu, Jiazhong and Mu, Yadong},
-  jounal={arXiv preprint arXiv:2410.01440},
-  year={2024}
+  author={Li, Jinghan and Sun, Zhicheng and Mu, Yadong},
+  booktitle={International Conference on Machine Learning},
+  year={2025}
 }
 ```
 
